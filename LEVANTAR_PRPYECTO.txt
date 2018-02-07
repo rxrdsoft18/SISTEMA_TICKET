@@ -1,3 +1,5 @@
+OJO:ES NECESARIO TENER ACTIVO EL INTERNET PARA QUE FUNCIONEN LOS CDN's
+
 1.Crear una carpeta con cualquier nombre.
 2.Abrir cmd o git shell o git bash y entrar a la ubicacion de la carpeta creada.
 3.Una vez que esta dentro de la carpeta ejecuta: git clone https://github.com/rxrdsoft/SISTEMA_TICKET.git
