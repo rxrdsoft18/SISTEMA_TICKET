@@ -1,0 +1,14 @@
+1.Crear una carpeta con cualquier nombre.
+2.Abrir cmd o git shell o git bash y entrar a la ubicacion de la carpeta creada.
+3.Una vez que esta dentro de la carpeta ejecuta: git clone https://github.com/rxrdsoft/SISTEMA_TICKET.git
+4.Una vez clonado el repositorio entrar en la carpeta SISTEMA_TICKET por la linea de comandos.
+5.Una vez dentro ejecutar:composer install
+6.Abrir el proyecto con cualquier editor de texto y copiar y pegar el archivo en la misma ubicacion:.env.example
+renombrar el archivo que se copio (.env.example => .env)
+7.Ejecutar:php artisan key:generate
+Configurar la base de datos de acuerdo a su configuracion.
+8.En la ruta del proyecto ejecutar: php artisan migrate
+9.Luego ejecutar: php artisan db:seed
+10.Nos permitira tener data de prueba.
+11.Por ultimo ejecutar:php artisan serve
+12.Abrir en el navegador:http://localhost:8000/tickets

@@ -1,0 +1,14 @@
+1.Implementar un modulo de reporte para visualizar los tickes con nivel de
+importancia(urgente/medio bajo) para realizar estadisticas.
+2.Implementar un sistema de logeo, para que solo personas autorizadas tengan
+acceso ya que nos permitira identificar quien emitio el ticket.
+3.Se añadiria un campo mas al momento de la publicion que seria el estado
+de la publicacion del ticket
+4.Agregar el modulo de categorias de tickets
+5.Generacion de codigos automaticos personalizados para los tickets
+6.Exportar datos de los tickes a excel,PDF.
+7.Crear un admin para el sistema.
+8.Agregar Facebook chat(como metodo de contacto mas rapido) 
+solo para casos de emergencia con el administrador.
+9.El sistema debe ser responsive design.
+10.Habilitar roles de acceso en el sistema.
